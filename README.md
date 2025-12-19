@@ -13,8 +13,8 @@ Repository containing PDFs of my certificates earned from courses and trainings.
 
 | Course          | Organization | Link |
 |-----------------|--------------|------|
-| Machine Learning with Python | IBM | [PDF](Computer_Science/Machine_Learning/machine_learning_with_python.pdf) |
-| Data Analysis with Python | IBM | [PDF](Computer_Science/Machine_Learning/data_analysis_with_python.pdf) |
+| Machine Learning with Python | IBM | [PDF](Machine_Learning_&_Data_Analysis/machine_learning_with_python.pdf) |
+| Data Analysis with Python | IBM | [PDF](Machine_Learning_&_Data_Analysis/data_analysis_with_python.pdf) |
 
 ## Computer Science
 
