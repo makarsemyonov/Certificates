@@ -9,6 +9,12 @@ Repository containing PDFs of my certificates earned from courses and trainings.
 | Probability Foundations for Data Science and AI | University of Colorado Boulder | [PDF](Math/probability_theory.pdf) |
 | Discrete Random Processes | Computer Science Center | [PDF](Math/discrete_random_processes.pdf) |
 
+## Machine Learning
+
+| Course          | Organization | Link |
+|-----------------|--------------|------|
+| Machine Learning with Python | IBM | [PDF](Computer_Science/Machine_Learning/machine_learning_with_python.pdf) |
+
 ## Computer Science
 
 | Course          | Organization | Link |
@@ -18,5 +24,4 @@ Repository containing PDFs of my certificates earned from courses and trainings.
 
 ### Contacts
 Email: msemyonov2809@gmail.com  
-
 Telegram: @makar_semyonov
