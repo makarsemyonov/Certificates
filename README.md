@@ -9,11 +9,12 @@ Repository containing PDFs of my certificates earned from courses and trainings.
 | Probability Foundations for Data Science and AI | University of Colorado Boulder | [PDF](Math/probability_theory.pdf) |
 | Discrete Random Processes | Computer Science Center | [PDF](Math/discrete_random_processes.pdf) |
 
-## Machine Learning
+## Machine Learning and Data Analysis
 
 | Course          | Organization | Link |
 |-----------------|--------------|------|
 | Machine Learning with Python | IBM | [PDF](Computer_Science/Machine_Learning/machine_learning_with_python.pdf) |
+| Data Analysis with Python | IBM | [PDF](Computer_Science/Machine_Learning/data_analysis_with_python.pdf) |
 
 ## Computer Science
 
