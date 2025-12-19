@@ -9,6 +9,11 @@ Repository containing PDFs of my certificates earned from courses and trainings.
 | Probability Foundations for Data Science and AI | University of Colorado Boulder | [PDF](Math/probability_theory.pdf) |
 | Discrete Random Processes | Computer Science Center | [PDF](Math/discrete_random_processes.pdf) |
 
+## Computer Science
+
+| Course          | Organization | Link |
+|-----------------|--------------|------|
+| Databases and SQL for Data Science with Pytho | IBM | [PDF](Computer_Science/databases_and_sql_for_data_science.pdf) |
 
 ### Contacts
 Email: msemyonov2809@gmail.com  
