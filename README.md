@@ -23,6 +23,10 @@ Repository containing PDFs of my certificates earned from courses and trainings.
 | Databases and SQL for Data Science with Python | IBM | [PDF](Computer_Science/databases_and_sql_for_data_science.pdf) |
 | Python for Data Science, AI & Development | IBM | [PDF](Computer_Science/python_for_data_science_and_ai.pdf) |
 
+## Links
+
+- **LeetCode:** https://leetcode.com/u/makar_semyonov/
+
 ### Contacts
 Email: msemyonov2809@gmail.com  
 Telegram: @makar_semyonov
